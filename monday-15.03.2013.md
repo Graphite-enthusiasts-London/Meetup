@@ -1,8 +1,0 @@
-Presentation
-============
-
-Dicussion Highlight
-===================
-
-Bookmarks
-=========
